@@ -1,1 +1,1 @@
-# automatic-question-paper-generator
+# Automated-Question-Paper-Generator
